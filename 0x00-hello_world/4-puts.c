@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description: puts probelm
+ * Description: puts problem
  * Return: Always 0 (Success)
  */
 int main(void)
