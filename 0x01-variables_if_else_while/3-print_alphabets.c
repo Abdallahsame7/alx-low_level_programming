@@ -11,15 +11,15 @@ int main(void)
 	char ch1 = 'a';
 	char ch2 = 'A';
 
-	while (ch <= 'z')
+	while (ch1 <= 'z')
 	{
-	putcher(ch);
-	ch++;
+	putcher(ch1);
+	ch1++;
 	}
-	while (CH <= 'z')
+	while (ch2 <= 'z')
 	{
-	putcher(CH);
-	CH++;
+	putcher(ch2);
+	ch2++;
 	}
 	putcher('\n');
 	return (0);
