@@ -12,7 +12,7 @@ int main(main)
 
 	while (x <= 9)
 	{
-		putcher (x+48);
+		putchar (x+48);
 		if(x != 9)
 		{
 		putchar(',');
@@ -20,6 +20,6 @@ int main(main)
 		}
 		x++;
 	}	
-	putcher('\n');
+	putchar('\n');
 	return (0);
 }
