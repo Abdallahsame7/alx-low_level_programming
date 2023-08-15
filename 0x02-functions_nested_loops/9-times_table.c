@@ -1,10 +1,7 @@
 #include "main.h"
 
 /*
- * times_table - prints table 9 times
- * Example Table
- * 0, 0, 0, 0, ..
- * 0, 1, 2, 3, ..
+ * times_table - prints table 9 times it is very impo
  */
 
 void times_table(void)
