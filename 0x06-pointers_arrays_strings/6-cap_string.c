@@ -26,7 +26,7 @@ int isDelimeter(char c)
 
 	for (i = 0; i < 12; i++)
 		if (c == del[i])
-			return (i);
+			return (1);
 	return (0);
 }
 
