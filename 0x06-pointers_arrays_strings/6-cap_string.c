@@ -45,7 +45,7 @@ char *cap_string(char *s)
 
 	while (*s)
 	{
-		if (isDelimiter(*s))
+		if (isDelimeter(*s))
 			found = 1;
 		else if (isLower(*s) && found)
 		{
