@@ -10,8 +10,8 @@ char *rot13(char *s)
 {
 	int i;
 
-	char rot1[] = "abcdefghijklmnopqurstuvwzyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-	char rot2[] = "nopqurstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGHIJKLM";
+	char rot1[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	char rot2[] = "nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGHIJKLM";
 	char *ptr = s;
 
 	while (*s)
