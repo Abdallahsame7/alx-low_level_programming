@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * print_diagsums - parm
  * @a: int
@@ -18,6 +18,6 @@ void print_diagsums(int *a, int size)
 		a += size;
 
 	}
-	printf("%d, ", n1);
+	printf("%d,", n1);
 	printf("%d\n", n2);
 }
