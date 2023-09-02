@@ -1,7 +1,6 @@
 #include "main.h"
-
 /**
- * main - parm
+ * main- parm
  * Return: void
  */
 int main(void)
