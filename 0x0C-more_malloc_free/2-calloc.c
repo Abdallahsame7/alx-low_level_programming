@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * *memset - parm
+ * *_memset - parm
  * @s: char
  * @b: char
  * @n: int
