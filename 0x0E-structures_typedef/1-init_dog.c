@@ -1,4 +1,4 @@
-#incldue "dog.h"
+#include "dog.h"
 
 /**
  * init_dog - parm
